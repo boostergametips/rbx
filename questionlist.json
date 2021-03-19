@@ -1,1 +1,101 @@
 
+[{
+    "id": 2,
+    "question": "What is the number 1 guy avatar",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "Evey",
+    "option2": "Mary",
+    "option3": "Adam",
+    "option4": "Mick",
+    "correct": 3
+},{
+    "id": 1,
+    "question": "What is the best remote place to hid in",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "factory",
+    "option2": "near the ocean",
+    "option3": "house",
+    "option4": "may be",
+    "correct": 2
+},{
+    "id": 3,
+    "question": "What is the name of the popular car",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "truck",
+    "option2": "car",
+    "option3": "Mega zord",
+    "option4": "patch note",
+    "correct": 4
+},{
+    "id": 5,
+    "question": "What is NOT the main goal in free fire",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "to be first",
+    "option2": "to be the winner",
+    "option3": "he be good",
+    "option4": "to be the last one alive",
+    "correct": 3
+},{
+    "id": 6,
+    "question": "Who is avartar",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "maximum",
+    "option2": "adam",
+    "option3": "kla",
+    "option4": "hytoa",
+    "correct": 2
+},{
+    "id": 8,
+    "question": "What does the game say when you are the winner",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "yes",
+    "option2": "Winner",
+    "option3": "BooYah!",
+    "option4": "Yahhhhh!",
+    "correct": 3
+},{
+    "id": 9,
+    "question": "How much does Kla go down on a level 2 punch to the head?",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "250",
+    "option2": "275",
+    "option3": "200",
+    "option4": "332",
+    "correct": 2
+},{
+    "id": 10,
+    "question": "WHAT YEAR THEY CREATED FREE FIRE",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "1999",
+    "option2": "2000",
+    "option3": "2005",
+    "option4": "2017",
+    "correct": 4
+},{
+    "id": 11,
+    "question": "WHICH OF THIS DOES NO HARM",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "GRANADA, PAN AND BATE",
+    "option2": "GRANADA AND AUTO",
+    "option3": "GLOO WALL",
+    "option4": "MACHINE GUN",
+    "correct": 3
+},{
+    "id": 12,
+    "question": "WHICH CAN KILL IN ONE TIME",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "P90",
+    "option2": "SCAR",
+    "option3": "SHOTGUN",
+    "option4": "GRANADA",
+    "correct": 4
+},{
+    "id": 13,
+    "question": "Who can make a report?",
+    "image": "https://i.ibb.co/F6FqskF/diamond.png",
+    "option1": "ALL IN PURGATORY",
+    "option2": "ALL IN BERMUDA",
+    "option3": "ALL IN CLASSIC ONLY",
+    "option4": "THE DEVELOPERS",
+    "correct": 3
+}]
